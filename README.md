@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science B.A. Student at the University of Minnesota<br>Former Camp Lead Teacher Intern at TechTacToe<br>Rocket League eSports club developer
+Computer Science B.A. Student at the University of Minnesota<br>Former Camp Lead Teacher Intern at TechTacToe<br>Rocket League eSports Club Developer
 
 
 ## 🌐 Socials:
